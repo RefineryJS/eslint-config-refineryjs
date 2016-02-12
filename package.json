@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-refineryjs",
+  "version": "0.1.0",
+  "description": "ESLint config set for projects with default RefineryJS plugins",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/refineryjs/eslint-config-refineryjs.git"
+  },
+  "keywords": [
+    "refineryjs",
+    "eslint"
+  ],
+  "author": "HyeonuPark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refineryjs/eslint-config-refineryjs/issues"
+  },
+  "homepage": "https://github.com/refineryjs/eslint-config-refineryjs#readme"
+}
