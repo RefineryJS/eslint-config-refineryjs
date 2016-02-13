@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-refineryjs",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "ESLint config set for projects with default RefineryJS plugins",
   "main": "index.js",
   "repository": {
